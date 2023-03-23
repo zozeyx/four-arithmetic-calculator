@@ -10,3 +10,5 @@ four arithmetic calculator(사칙연산 계산기) with python
 * divide
 
 Other features will be added..
+
+\*And if you enter a character other than a number, the function to display an error message will be added later.\*
