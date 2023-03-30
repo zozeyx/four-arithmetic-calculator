@@ -4,6 +4,10 @@ Four arithmetic calculator(사칙연산 계산기) with python
 파이썬을 이용한 사칙연산 계산기
 
 ## Update !!
+Add 'exit' function and Remove unnecessar phrases           
+(It is available in the four arithmetical calculator third commit file.)
+
+## Update !!
 Now you can write the Korean and English versions separately on the calculator!       
 (It is available in the four arithmetical calculator second commit file.)
 
